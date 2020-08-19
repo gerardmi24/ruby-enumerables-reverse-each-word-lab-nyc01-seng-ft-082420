@@ -8,5 +8,5 @@ def reverse_each_word(string)
 
     array.collect {|element| element.reverse}
     new_array << array
-binding.pry
+
 end
