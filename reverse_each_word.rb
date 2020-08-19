@@ -4,4 +4,3 @@ def reverse_each_word(string)
     array.reverse_each do |element|
   end
 end
-
